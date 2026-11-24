@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+._*
+
+# Office / 한글 임시 파일
+~$*
+*.tmp
+.~lock.*
+
+# Obsidian
+.obsidian/workspace*.json
+.trash/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / 빌드 산출물
+.vscode/
+.idea/
+.vs/
+Debug/
+Release/
+.ipynb_checkpoints/
